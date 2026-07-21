@@ -1,0 +1,6 @@
+{
+  "name": "Agrawal Medical Hall",
+  "description": "Your trusted pharmacy in Pai Bigha, Bihar for 100% genuine medicines, baby care, surgical items, healthcare products, and medical devices. Convenient Call and WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
